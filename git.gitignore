@@ -1,0 +1,15 @@
+MDK-ARM/car/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.lnp
+*.dep
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
